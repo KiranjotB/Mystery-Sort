@@ -1,2 +1,2 @@
-# Mystery-Sort
-The input is served as the user provides a sequence of non-negative data terminated by -1. For the output, first the list is printed after entry, then the list is printed after mystery sort
+# Mystery-Sort-Program
+This program takes in a list of numbers, and gives a final result of the sorted list of numbers from smallest to largest.
